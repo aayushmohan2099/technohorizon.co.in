@@ -1,0 +1,119 @@
+{
+  "utilityBar": {
+    "text": "Enterprise Technology • Institutional Advisory • Workforce Solutions",
+    "email": "contact@technohorizon.co.in"
+  },
+  "mainNav": [
+    {
+      "label": "Services",
+      "href": "/services",
+      "hasDropdown": true,
+      "items": [
+        {
+          "title": "Software Development & IT Solutions",
+          "href": "/services/software-it-solutions",
+          "description": "Custom applications, enterprise architecture, and system integration.",
+          "icon": "Code"
+        },
+        {
+          "title": "Business Consultancy, BPR & DPR",
+          "href": "/services/business-consultancy",
+          "description": "Business process re-engineering, detailed project reports, and advisory.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Training & Skill Development",
+          "href": "/services/training-skill-development",
+          "description": "Change management, digital adoption, and institutional upskilling.",
+          "icon": "GraduationCap"
+        },
+        {
+          "title": "Manpower Solutions",
+          "href": "/services/manpower-solutions",
+          "description": "Executive search, project staffing, and specialized workforce deployment.",
+          "icon": "Users"
+        }
+      ]
+    },
+    {
+      "label": "Sectors",
+      "href": "/sectors",
+      "hasDropdown": true,
+      "items": [
+        {
+          "title": "Government & Public Sector",
+          "href": "/sectors/government-public-sector",
+          "description": "Procurement-aligned digital modernization and institutional advisory.",
+          "icon": "Landmark"
+        },
+        {
+          "title": "Private Enterprise & NGOs",
+          "href": "/sectors/private-enterprise",
+          "description": "Custom workflows, cloud transitions, and organizational capacity.",
+          "icon": "Building2"
+        },
+        {
+          "title": "All Sectors Overview",
+          "href": "/sectors",
+          "description": "Comprehensive sectoral matrix and engagement frameworks.",
+          "icon": "Layers"
+        }
+      ]
+    },
+    {
+      "label": "Projects",
+      "href": "/projects"
+    },
+    {
+      "label": "Clients",
+      "href": "/clients"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Insights",
+      "href": "/insights"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "primaryAction": {
+    "label": "Request Proposal",
+    "href": "/request-proposal"
+  },
+  "footerNav": {
+    "services": [
+      { "label": "Software & IT Solutions", "href": "/services/software-it-solutions" },
+      { "label": "Business Consultancy (BPR/DPR)", "href": "/services/business-consultancy" },
+      { "label": "Training & Skill Development", "href": "/services/training-skill-development" },
+      { "label": "Manpower Solutions", "href": "/services/manpower-solutions" },
+      { "label": "All Services Overview", "href": "/services" }
+    ],
+    "sectors": [
+      { "label": "Government & PSUs", "href": "/sectors/government-public-sector" },
+      { "label": "Private Enterprise & NGOs", "href": "/sectors/private-enterprise" },
+      { "label": "Sector Capabilities Matrix", "href": "/sectors" },
+      { "label": "Submit RFP / Tender Inquiry", "href": "/submit-rfp" }
+    ],
+    "company": [
+      { "label": "About Techno Horizon", "href": "/about" },
+      { "label": "Our Journey & Evolution", "href": "/about/our-journey" },
+      { "label": "Delivery Approach", "href": "/approach" },
+      { "label": "Case Study Library", "href": "/projects" },
+      { "label": "Clientele & Institutions", "href": "/clients" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy-policy" },
+      { "label": "Terms of Engagement", "href": "/terms" },
+      { "label": "Accessibility Statement", "href": "/accessibility" }
+    ]
+  }
+}

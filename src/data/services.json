@@ -1,0 +1,273 @@
+[
+  {
+    "id": "software-it-solutions",
+    "slug": "software-it-solutions",
+    "title": "Software Development & IT Solutions",
+    "shortTitle": "Software & IT",
+    "headline": "Software designed for real operational complexity.",
+    "summary": "Custom applications, integrations, and enterprise modernization shaped around real workflows and demanding institutional requirements.",
+    "heroGraphic": "SoftwareFlow",
+    "capabilities": [
+      {
+        "title": "Custom Application Engineering",
+        "description": "Architecting resilient web and enterprise applications designed for high transaction volumes, multi-role security, and long lifecycles."
+      },
+      {
+        "title": "Systems & API Integration",
+        "description": "Connecting disparate departmental systems, legacy mainframes, payment gateways, and statutory registries through secure, standards-compliant APIs."
+      },
+      {
+        "title": "Legacy Modernization",
+        "description": "De-risking legacy migration through modular re-platforming, database refactoring, and cloud-native architecture adoption."
+      },
+      {
+        "title": "IT Consultation & Enterprise Architecture",
+        "description": "Providing independent technical review, architecture blueprints, technology stack evaluation, and RFP specification drafting."
+      },
+      {
+        "title": "MIS & Executive Dashboards",
+        "description": "Designing unified operational dashboards, real-time data ingestion pipelines, and compliance reporting tools for institutional oversight."
+      },
+      {
+        "title": "Maintenance & Continuous Enhancement",
+        "description": "Dedicated application lifecycle support, security patching, vulnerability mitigation, and continuous performance optimization."
+      }
+    ],
+    "processStages": [
+      { "step": "01", "name": "Stakeholder Needs", "detail": "Field interviews, compliance mapping, and core workflow discovery." },
+      { "step": "02", "name": "Solution Design", "detail": "System architecture, database schema, data security models, and UI wireframes." },
+      { "step": "03", "name": "Modular Engineering", "detail": "Test-driven implementation across resilient backend and responsive front-end layers." },
+      { "step": "04", "name": "Integration & Hardening", "detail": "API hookup, security audits, stress testing, and accessibility compliance verification." },
+      { "step": "05", "name": "Operational Insight", "detail": "Telemetry rollout, administrator enablement, and telemetry-guided maintenance." }
+    ],
+    "deliverables": [
+      "Functional Requirements Document (FRD)",
+      "System Architecture & Data Schema Specification",
+      "Interactive Wireframes & Component Libraries",
+      "Secure Source Code & Automated Test Suites",
+      "API Documentation & Integration Manuals",
+      "Deployment Runbooks & Operational Maintenance Guides"
+    ],
+    "targetSectors": ["Government", "PSUs", "Private Enterprise", "Public Utilities"],
+    "primaryCta": {
+      "label": "Schedule Consultation",
+      "href": "/schedule-consultation?service=software-it-solutions"
+    },
+    "secondaryCta": {
+      "label": "Request Capability Deck",
+      "href": "/contact?inquiry=capability-deck"
+    },
+    "faqs": [
+      {
+        "q": "How does Techno Horizon handle institutional data security and compliance?",
+        "a": "Our architecture practices enforce strict role-based access control (RBAC), end-to-end data encryption in transit and at rest, automated vulnerability scanning, and adherence to public data protection standards."
+      },
+      {
+        "q": "Can you integrate with existing departmental databases and legacy portals?",
+        "a": "Yes. Our systems integration framework connects with legacy RDBMS, proprietary public sector registries, payment gateways, and authentication services using secure REST and SOAP endpoints."
+      },
+      {
+        "q": "Do you provide pricing packages or software subscription tiers?",
+        "a": "No. Techno Horizon delivers bespoke enterprise software engineered to exact institutional specifications under customized scopes of work and institutional procurement contracts."
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "business-consultancy",
+    "slug": "business-consultancy",
+    "title": "Business Consultancy, BPR & DPR",
+    "shortTitle": "Business Advisory & DPR",
+    "headline": "From process diagnosis to decisions that can be delivered.",
+    "summary": "Process re-engineering, detailed project reports (DPR), and administrative advisory that bridge high-level policy with ground execution.",
+    "heroGraphic": "AdvisoryWorkflow",
+    "capabilities": [
+      {
+        "title": "Business Process Re-engineering (BPR)",
+        "description": "Rigorous current-state process mapping, administrative bottleneck elimination, and streamlined future-state design."
+      },
+      {
+        "title": "Detailed Project Report (DPR) Formulation",
+        "description": "Comprehensive project feasibility documentation, technical specifications, financial outlays, and execution timelines."
+      },
+      {
+        "title": "Feasibility Studies & Gap Analysis",
+        "description": "Techno-economic feasibility assessments, organizational readiness audits, and regulatory compliance benchmarking."
+      },
+      {
+        "title": "Procurement & Tender Advisory",
+        "description": "Drafting technical schedules, SLA frameworks, evaluation criteria, and tender documentation for transparent institutional procurement."
+      },
+      {
+        "title": "Organizational Governance Design",
+        "description": "Establishing standard operating procedures (SOPs), decision matrices, escalation hierarchies, and monitoring frameworks."
+      }
+    ],
+    "processStages": [
+      { "step": "01", "name": "Current State Audit", "detail": "Field observation, stakeholder consultation, and administrative artifact review." },
+      { "step": "02", "name": "Friction Diagnostics", "detail": "Bottleneck quantification, compliance exposure analysis, and redundancy identification." },
+      { "step": "03", "name": "Future-State Modeling", "detail": "Target operating model, role re-alignment, and digital intervention blueprints." },
+      { "step": "04", "name": "DPR & Feasibility", "detail": "Financial modeling, phased expenditure projection, and procurement roadmap creation." },
+      { "step": "05", "name": "Implementation Governance", "detail": "Rollout oversight, SLA tracking, and ongoing process stabilization." }
+    ],
+    "deliverables": [
+      "As-Is Process Diagnostic Dossier",
+      "To-Be Re-engineered Workflow Blueprints",
+      "Statutory & Comprehensive Detailed Project Reports (DPR)",
+      "Standard Operating Procedures (SOPs) Manuals",
+      "Technical RFP & Bid Evaluation Frameworks",
+      "Institutional Change Impact Assessment Matrices"
+    ],
+    "targetSectors": ["Government Departments", "PSUs", "Semi-Public Bodies", "Large Enterprises"],
+    "primaryCta": {
+      "label": "Consult with Experts",
+      "href": "/schedule-consultation?service=business-consultancy"
+    },
+    "secondaryCta": {
+      "label": "Discuss BPR / DPR Requirements",
+      "href": "/contact?inquiry=bpr-dpr"
+    },
+    "faqs": [
+      {
+        "q": "What is the typical timeframe required to prepare an institutional DPR?",
+        "a": "Preparation timelines depend on project scale and field assessment requirements, typically ranging between 4 to 12 weeks from initial stakeholder orientation to final report submission."
+      },
+      {
+        "q": "Does Techno Horizon prepare DPRs in accordance with government procurement guidelines?",
+        "a": "Yes. Our DPR structures align with central and state government planning commissions, multilateral agency templates, and institutional tender requirements."
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "training-skill-development",
+    "slug": "training-skill-development",
+    "title": "Training, Skill Development & Change Management",
+    "shortTitle": "Training & Skills",
+    "headline": "Build the capabilities that make change stick.",
+    "summary": "Institutional upskilling, digital adoption training, and structured change management programs tailored for workforce-scale transformations.",
+    "heroGraphic": "LearningLadder",
+    "capabilities": [
+      {
+        "title": "Digital System Adoption Training",
+        "description": "Role-specific training programs ensuring rapid, error-free frontline adoption of new software, e-governance systems, and digital tools."
+      },
+      {
+        "title": "Institutional & Corporate Upskilling",
+        "description": "Domain-focused workshops in modern administrative workflows, data-driven decision making, and operational compliance."
+      },
+      {
+        "title": "Training Needs Analysis (TNA)",
+        "description": "Methodical workforce capability assessments identifying skill gaps, baseline competencies, and targeted learning interventions."
+      },
+      {
+        "title": "Change Management & Transition Support",
+        "description": "Communication planning, resistance mitigation, and internal champion networks to guide teams through operational shifts."
+      },
+      {
+        "title": "Train-the-Trainer (ToT) Frameworks",
+        "description": "Multiplying training reach through certified master trainers equipped with standardized instructional collateral."
+      }
+    ],
+    "processStages": [
+      { "step": "01", "name": "Needs Assessment", "detail": "Capability baselining, role analysis, and learning objective definition." },
+      { "step": "02", "name": "Curriculum Structuring", "detail": "Custom module authoring, real-world scenario design, and resource formulation." },
+      { "step": "03", "name": "Cohort Facilitation", "detail": "Interactive classroom, master-lab, or distributed hybrid workshop delivery." },
+      { "step": "04", "name": "Applied Practice", "detail": "Hands-on workflow simulations, scenario testing, and guided problem solving." },
+      { "step": "05", "name": "Adoption & Feedback", "detail": "Competency evaluations, participant feedback synthesis, and longitudinal monitoring." }
+    ],
+    "deliverables": [
+      "Training Needs Analysis (TNA) Report",
+      "Custom Modular Course Curricula & Handbooks",
+      "Trainer Guides & Presentation Master Decks",
+      "Practical Assessment Frameworks & Scoring Rubrics",
+      "Cohort Certification Records & Attendance Logs",
+      "Longitudinal Adoption & Effectiveness Evaluations"
+    ],
+    "targetSectors": ["Government Departments", "PSUs", "Vocational Agencies", "Enterprises"],
+    "primaryCta": {
+      "label": "Request a Training Session",
+      "href": "/request-training"
+    },
+    "secondaryCta": {
+      "label": "Inquire About Capacity Programs",
+      "href": "/contact?inquiry=training"
+    },
+    "faqs": [
+      {
+        "q": "Can training sessions be conducted on-site across multiple district locations?",
+        "a": "Yes. Techno Horizon designs distributed training programs with regional deployment capabilities to facilitate district-level or multi-facility rollouts."
+      },
+      {
+        "q": "How do you measure training effectiveness?",
+        "a": "We utilize pre- and post-session competency evaluations, hands-on tool audits, and longitudinal system usage metrics to quantify capability gains."
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "manpower-solutions",
+    "slug": "manpower-solutions",
+    "title": "Manpower Solutions, Executive Search & Staffing",
+    "shortTitle": "Manpower Solutions",
+    "headline": "Workforce solutions aligned with delivery goals.",
+    "summary": "Strategic talent acquisition, technical project staffing, and turnkey manpower deployment tailored for public programs and enterprise initiatives.",
+    "heroGraphic": "TalentPipeline",
+    "capabilities": [
+      {
+        "title": "Executive Search & Leadership Hiring",
+        "description": "Discrete, high-touch talent search for senior program directors, enterprise architects, and operational leadership roles."
+      },
+      {
+        "title": "Project-Based Technical Staffing",
+        "description": "Deploying vetted software engineers, database administrators, and business analysts for targeted project engagements."
+      },
+      {
+        "title": "Institutional Workforce Deployment",
+        "description": "Scaling administrative, operational, and data-entry workforces for large public rollouts, surveys, and citizen service centers."
+      },
+      {
+        "title": "Workforce Capacity Planning",
+        "description": "Analyzing staffing ratios, role descriptions, and succession pathways to ensure sustainable operational staffing levels."
+      },
+      {
+        "title": "Compliance & Deployment Management",
+        "description": "Full statutory adherence including payroll coordination, background checks, PF/ESI compliance, and deployment management."
+      }
+    ],
+    "processStages": [
+      { "step": "01", "name": "Requirement Profiling", "detail": "Detailed job specification, seniority calibration, and SLA definition." },
+      { "step": "02", "name": "Multi-tier Screening", "detail": "Technical assessment, reference checks, and compliance verification." },
+      { "step": "03", "name": "Client Evaluation", "detail": "Structured interviews, shortlisted portfolios, and stakeholder sign-off." },
+      { "step": "04", "name": "Deployment & Onboarding", "detail": "Orientation, credentialing, statutory documentation, and role handover." },
+      { "step": "05", "name": "Performance Review", "detail": "Continuous SLA monitoring, retention tracking, and capacity rebalancing." }
+    ],
+    "deliverables": [
+      "Job Profiling & Role Competency Matrix",
+      "Vetted Candidate Dossiers & Verification Logs",
+      "Deployment Rosters & Attendance Infrastructure",
+      "Statutory Compliance & Labor Documentation Records",
+      "Periodic Performance & Retention Analytics"
+    ],
+    "targetSectors": ["Government Departments", "PSUs", "Private Enterprises", "Contracting Consortiums"],
+    "primaryCta": {
+      "label": "Discuss Manpower Requirements",
+      "href": "/contact?service=manpower-solutions"
+    },
+    "secondaryCta": {
+      "label": "Submit RFP / Tender Inquiry",
+      "href": "/submit-rfp"
+    },
+    "faqs": [
+      {
+        "q": "What staffing models are supported?",
+        "a": "We support contract-based project staffing, dedicated managed teams, and executive search arrangements governed by clearly defined institutional SLAs."
+      },
+      {
+        "q": "Can you submit manpower proposals for public tenders?",
+        "a": "Yes. We respond to official tenders and RFPs. For procurement queries, contact our RFP coordination desk at contact@technohorizon.co.in."
+      }
+    ],
+    "published": true
+  }
+]

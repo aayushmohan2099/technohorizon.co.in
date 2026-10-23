@@ -1,0 +1,58 @@
+[
+  {
+    "category": "General & Procurement",
+    "items": [
+      {
+        "q": "How does an engagement with Techno Horizon typically begin?",
+        "a": "Engagements typically begin with an initial scoping consultation or RFP review. Following requirements discovery, our team submits a formal proposal or technical schedule outlining deliverables, milestones, governance structure, and commercial terms aligned with institutional procurement standards."
+      },
+      {
+        "q": "Can Techno Horizon participate in government and PSU tenders?",
+        "a": "Yes. Techno Horizon participates in public tenders, RFPs, and institutional bids across custom software development, systems integration, process consulting (BPR/DPR), and manpower solutions. Tenders can be coordinated via contact@technohorizon.co.in."
+      },
+      {
+        "q": "Is Techno Horizon a SaaS product company with subscription pricing?",
+        "a": "No. Techno Horizon is an enterprise technology, institutional advisory, and workforce solutions partner. We deliver tailored software engineering, custom consulting, and dedicated staffing under agreed scopes of work, rather than off-the-shelf software subscriptions or self-service packages."
+      }
+    ]
+  },
+  {
+    "category": "Software & Integration",
+    "items": [
+      {
+        "q": "What technology stacks do you specialize in?",
+        "a": "Our engineering teams build with modern, resilient architectures including React, Node.js, Python, Java enterprise stacks, PostgreSQL, MySQL, and secure cloud/on-premise Linux environments, with a strong emphasis on REST/SOAP API integration and role-based security."
+      },
+      {
+        "q": "Do you offer post-implementation software support and maintenance?",
+        "a": "Yes. We provide comprehensive application maintenance, vulnerability remediation, feature enhancements, and database optimization under defined Service Level Agreements (SLAs)."
+      }
+    ]
+  },
+  {
+    "category": "Consultancy & BPR/DPR",
+    "items": [
+      {
+        "q": "What is included in a Detailed Project Report (DPR)?",
+        "a": "A typical Techno Horizon DPR includes comprehensive requirement scoping, baseline gap assessments, technological and operational feasibility studies, financial expenditure projections, implementation roadmaps, risk registers, and procurement schedules."
+      },
+      {
+        "q": "How does BPR integrate with your software development capabilities?",
+        "a": "Our business analysts diagnose and streamline administrative workflows first, creating future-state process maps that directly inform the system architecture, database schema, and UI flows of the resulting software solution."
+      }
+    ]
+  },
+  {
+    "category": "Training & Manpower",
+    "items": [
+      {
+        "q": "How are manpower candidates vetted for institutional deployments?",
+        "a": "Candidates undergo multi-stage technical assessments, identity and credential verification, previous employer reference checks, and background screening prior to institutional onboarding."
+      },
+      {
+        "q": "Can training sessions be customized for specific departmental software?",
+        "a": "Yes. Our instructional team conducts a thorough Training Needs Analysis (TNA) and authors custom bilingual curricula, interactive simulation labs, and facilitator guides reflecting your specific software and operational rules."
+      }
+    ]
+  }
+]

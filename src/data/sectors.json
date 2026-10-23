@@ -1,0 +1,85 @@
+[
+  {
+    "id": "government-public-sector",
+    "slug": "government-public-sector",
+    "title": "Government & Public Sector",
+    "headline": "Modernizing public service delivery through disciplined engineering and advisory.",
+    "summary": "Proven capabilities across government departments, state bodies, and public sector undertakings needing compliant, high-availability digital solutions and administrative rigor.",
+    "challenges": [
+      "Rigorous statutory compliance and public procurement audit standards",
+      "High-concurrency citizen transactions and mission-critical uptime demands",
+      "Navigating multi-tier stakeholder approvals and multi-departmental silos",
+      "Large-scale workforce adoption across distributed regional offices"
+    ],
+    "solutions": [
+      {
+        "title": "Institutional BPR & DPR Advisory",
+        "description": "Formulating detailed project reports, techno-economic feasibility studies, and process optimization frameworks that meet central and state planning mandates."
+      },
+      {
+        "title": "Custom e-Governance & Portal Engineering",
+        "description": "Architecting resilient, accessible portals for citizen service delivery, regulatory monitoring, grievance tracking, and inter-departmental data exchange."
+      },
+      {
+        "title": "Large-Scale Frontline Training Cascades",
+        "description": "Designing Train-the-Trainer (ToT) programs and field training modules ensuring administrative staff master digital workflow systems."
+      },
+      {
+        "title": "Dedicated Field & Administrative Manpower",
+        "description": "Providing compliant, vetted technical analysts, field coordinators, and operational support staff for institutional rollouts."
+      }
+    ],
+    "procurementConsiderations": [
+      "Procurement-ready documentation and transparent scope definition",
+      "Adherence to statutory labor and security compliance frameworks",
+      "Clear milestone-linked deliverables and objective acceptance criteria",
+      "Tender coordination support via contact@technohorizon.co.in"
+    ],
+    "relatedServices": ["business-consultancy", "software-it-solutions", "training-skill-development", "manpower-solutions"],
+    "cta": {
+      "label": "Request Institutional Proposal",
+      "href": "/request-proposal?sector=government"
+    }
+  },
+  {
+    "id": "private-enterprise",
+    "slug": "private-enterprise",
+    "title": "Private Enterprise, NGOs & Semi-Public Institutions",
+    "headline": "Engineering agile capability and resilient operations for modern organizations.",
+    "summary": "Partnering with growth-focused commercial enterprises, non-profit institutions, and semi-public utilities to drive digital modernization, workflow efficiency, and specialized team deployment.",
+    "challenges": [
+      "Accelerating time-to-market while maintaining architecture integrity",
+      "Integrating modern cloud tools with established legacy databases",
+      "Addressing specialized engineering and operational leadership skill gaps",
+      "Ensuring predictable project delivery within fixed quarterly budgets"
+    ],
+    "solutions": [
+      {
+        "title": "Custom Enterprise Software & API Ecosystems",
+        "description": "Developing robust web platforms, automated business tools, and data pipelines connecting operational silos."
+      },
+      {
+        "title": "Process Re-engineering & Optimization",
+        "description": "Auditing operational friction, eliminating manual bottlenecks, and designing lean operational procedures."
+      },
+      {
+        "title": "Specialized Tech & Leadership Staffing",
+        "description": "Deploying senior technical architects, full-stack engineers, and executive leadership on flexible project models."
+      },
+      {
+        "title": "Workforce Upskilling & Digital Enablement",
+        "description": "Conducting interactive corporate workshops on digital system adoption and modern operational best practices."
+      }
+    ],
+    "procurementConsiderations": [
+      "Flexible engagement models: project-based, managed team, or hybrid",
+      "Intellectual property protection and strict non-disclosure agreements",
+      "Transparent sprint velocity and milestone-driven billing checkpoints"
+    ],
+    "relatedServices": ["software-it-solutions", "manpower-solutions", "business-consultancy", "training-skill-development"],
+    "cta": {
+      "label": "Schedule Enterprise Consultation",
+      "href": "/schedule-consultation?sector=enterprise"
+    }
+  }
+]

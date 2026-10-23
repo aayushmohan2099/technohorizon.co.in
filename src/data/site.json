@@ -1,0 +1,27 @@
+{
+  "brandName": "Techno Horizon",
+  "legalNamePendingVerification": "Techno Horizon (Corporate legal suffix pending owner verification)",
+  "tagline": "Technology, advisory, and talent for institutions that need results.",
+  "mission": "Empowering government departments, public sector undertakings, and modern enterprises through integrated software engineering, process re-engineering, organizational upskilling, and dedicated talent solutions.",
+  "contactEmail": "contact@technohorizon.co.in",
+  "officialWebsite": "https://www.technohorizon.co.in/",
+  "websiteVerificationNote": "Official domain inspected on Oct 23, 2026. Self-signed/untrusted certificate detected on legacy host; brand cues and PRD palette preserved as authorized baseline.",
+  "brandTokens": {
+    "primary": "#0F4C81",
+    "accentRed": "#E53E3E",
+    "white": "#FFFFFF",
+    "navyDark": "#071B31",
+    "blueDark": "#0A3358",
+    "blueLight": "#EAF3FB"
+  },
+  "defaultTimezone": "Asia/Kolkata",
+  "editorialPolicy": {
+    "noFakeData": true,
+    "proofReviewRequired": true,
+    "unverifiedClaimsRestricted": true
+  },
+  "footer": {
+    "visionLine": "Technology, advisory and people — connected for progress.",
+    "disclaimer": "All trademarks, service marks, and logos referenced belong to their respective statutory owners. Display of institutional names does not imply direct endorsement or ongoing engagement unless accompanied by verified case documentation."
+  }
+}

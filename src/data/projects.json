@@ -1,0 +1,158 @@
+[
+  {
+    "id": "proj-rural-monitoring",
+    "slug": "rural-infrastructure-monitoring",
+    "title": "State Rural Infrastructure & Project Monitoring Platform",
+    "sector": "Government",
+    "serviceIds": ["software-it-solutions", "business-consultancy"],
+    "summary": "Engineering a centralized web application and executive MIS for multi-district rural infrastructure tracking, milestone verification, and disbursement governance.",
+    "clientName": "Rural Engineering Department (Institutional Reference)",
+    "clientId": "ures",
+    "year": "2023",
+    "published": true,
+    "verificationStatus": "approved",
+    "context": "Managing rural infrastructure construction across thousands of dispersed village panchayats required transitioning from fragmented manual paper reports to an auditable digital tracking system.",
+    "challenge": "Disparate reporting cadences, irregular photographic site verification, delayed milestone billing, and lack of real-time physical-vs-financial progress reconciliation for executive leadership.",
+    "scope": [
+      "Process re-engineering for field inspection approvals",
+      "Custom web application engineering with role-based access control",
+      "Geotagged site progress capture module",
+      "Financial milestone reconciliation dashboard"
+    ],
+    "approach": "Techno Horizon conducted field discovery across regional divisions to model inspection handoffs, formulated an integrated system architecture, and rolled out a phased web dashboard with automated audit trails.",
+    "deliverables": [
+      "Detailed System Architecture & Data Schema Specification",
+      "Web-Based Project Monitoring Application",
+      "Division-Level Progress Entry Portals",
+      "Executive Analytics & MIS Dashboard",
+      "Division Engineer Training Runbook"
+    ],
+    "technologies": ["React", "Enterprise Node.js", "PostgreSQL", "REST APIs", "GIS Coordinate Mapping"],
+    "relatedServices": ["software-it-solutions", "business-consultancy"],
+    "outcomes": [
+      "Consolidated multi-district reporting into a single operational interface",
+      "Standardized photographic verification protocols for physical site milestones",
+      "Accelerated review cycles between field officers and executive oversight"
+    ]
+  },
+  {
+    "id": "proj-environmental-compliance",
+    "slug": "environmental-compliance-workflow",
+    "title": "Industrial Consent & Pollution Monitoring Workflow System",
+    "sector": "Government",
+    "serviceIds": ["software-it-solutions", "business-consultancy"],
+    "summary": "Streamlining statutory environmental consent tracking, renewal notifications, and inspection scheduling for state industrial regulatory oversight.",
+    "clientName": "State Pollution Control Authority (Institutional Reference)",
+    "clientId": "upcb",
+    "year": "2024",
+    "published": true,
+    "verificationStatus": "approved",
+    "context": "Processing statutory environmental clearances across diverse industrial classifications requires stringent timeline governance, multi-tier officer reviews, and verifiable document archival.",
+    "challenge": "Backlogs in industrial application scrutiny, non-standardized defect communications, and disconnected inspection scheduling across regional laboratories.",
+    "scope": [
+      "Process re-engineering of Consent-to-Establish (CTE) and Consent-to-Operate (CTO) pipelines",
+      "Digital submission portal with automated defect notification triggers",
+      "Inspector scheduling and laboratory sample tracking module",
+      "Public compliance registry and statutory certificate generation"
+    ],
+    "approach": "We mapped statutory review checkpoints to eliminate administrative redundancies, designed automated document validation rules, and built a transparent application lifecycle management platform.",
+    "deliverables": [
+      "BPR Blueprint for Statutory Consent Lifecycles",
+      "Online Consent Application & Scrutiny Portal",
+      "Automated SMS/Email Notification Engine",
+      "Inspector Roster & Lab Sample Tracking Module",
+      "Regulatory Audit Logs & Statutory Certificate Generator"
+    ],
+    "technologies": ["React", "Express / Java API Layer", "PostgreSQL", "Digital Signature Integration", "PDF Generation Service"],
+    "relatedServices": ["software-it-solutions", "business-consultancy"],
+    "outcomes": [
+      "Transparent lifecycle visibility for applicant industries and scrutinizing officers",
+      "Predictable timeline enforcement in accordance with regulatory charter norms",
+      "Elimination of lost paper dossiers through secure digital archival"
+    ]
+  },
+  {
+    "id": "proj-district-digital-adoption",
+    "slug": "district-digital-adoption",
+    "title": "Frontline e-Governance Digital Adoption & Training Cascade",
+    "sector": "Citizen Services",
+    "serviceIds": ["training-skill-development", "manpower-solutions"],
+    "summary": "Conducting Train-the-Trainer workshops, localized operator curricula, and change management cascades to accelerate citizen service portal rollouts.",
+    "clientName": "e-District & Citizen Services Mission (Institutional Reference)",
+    "clientId": "edistrict",
+    "year": "2023",
+    "published": true,
+    "verificationStatus": "approved",
+    "context": "The rollout of unified citizen service delivery centers required thousands of frontline counter operators, tehsildar clerks, and district coordinators to adopt revised electronic workflows.",
+    "challenge": "Wide variance in baseline computer literacy, fear of electronic verification liability, and high initial transaction error rates during first-phase deployment.",
+    "scope": [
+      "Comprehensive Training Needs Analysis (TNA) across sample districts",
+      "Bilingual operator manuals and step-by-step interactive simulation modules",
+      "Train-the-Trainer (ToT) cohort workshops for master district facilitators",
+      "On-ground transition monitoring and helpdesk issue triage"
+    ],
+    "approach": "Techno Horizon developed hands-on sandboxed simulation labs where operators practiced authentic certificate issuance scenarios, supported by certified master trainers deployed locally.",
+    "deliverables": [
+      "District-Level Training Needs Assessment (TNA) Report",
+      "Standardized Hindi & English Operator Field Handbooks",
+      "Interactive Step-by-Step Scenario Slide Decks",
+      "Certified Master Trainer Deployment Roster",
+      "Operator Competency Assessment Scorecards"
+    ],
+    "technologies": ["Interactive Training Sandboxes", "Learning Management System (LMS)", "Competency Testing Portals"],
+    "relatedServices": ["training-skill-development", "manpower-solutions"],
+    "outcomes": [
+      "Structured hundreds of master trainers across participating regional administrative zones",
+      "Significantly lowered frontline operator input errors during initial live launch",
+      "Established institutionalized onboarding materials for ongoing staff replacement"
+    ]
+  },
+  {
+    "id": "candidate-rural-engineering-archival",
+    "slug": "rural-engineering-archival-candidate",
+    "title": "State Rural Engineering Works Data Management (Archival Candidate)",
+    "sector": "Government",
+    "serviceIds": ["software-it-solutions"],
+    "summary": "Archival candidate from historical company profile records; reserved for editorial review prior to public release.",
+    "clientName": "Pending Owner Verification",
+    "clientId": "ures",
+    "year": null,
+    "published": false,
+    "verificationStatus": "pending",
+    "source": "Older public Techno Horizon profile; verify before publication.",
+    "metrics": [],
+    "mediaIds": []
+  },
+  {
+    "id": "candidate-pollution-board-archival",
+    "slug": "pollution-board-archival-candidate",
+    "title": "Industrial Effluent & Quality Monitoring System (Archival Candidate)",
+    "sector": "Government",
+    "serviceIds": ["software-it-solutions"],
+    "summary": "Archival candidate from historical company profile records; reserved for editorial review prior to public release.",
+    "clientName": "Pending Owner Verification",
+    "clientId": "upcb",
+    "year": null,
+    "published": false,
+    "verificationStatus": "pending",
+    "source": "Older public Techno Horizon profile; verify before publication.",
+    "metrics": [],
+    "mediaIds": []
+  },
+  {
+    "id": "candidate-skill-development-archival",
+    "slug": "skill-development-archival-candidate",
+    "title": "State Skill Development Mission Operational Assistance (Archival Candidate)",
+    "sector": "Government",
+    "serviceIds": ["training-skill-development", "manpower-solutions"],
+    "summary": "Archival candidate from historical company profile records; reserved for editorial review prior to public release.",
+    "clientName": "Pending Owner Verification",
+    "clientId": "upsdm",
+    "year": null,
+    "published": false,
+    "verificationStatus": "pending",
+    "source": "Older public Techno Horizon profile; verify before publication.",
+    "metrics": [],
+    "mediaIds": []
+  }
+]

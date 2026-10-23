@@ -1,0 +1,33 @@
+{
+  "notice": "All organizational metrics reflect verified service capabilities. Fictional numerical counters and unverified statistical marketing claims are strictly excluded in accordance with the enterprise editorial policy.",
+  "capabilityPillars": [
+    {
+      "id": "metric-service-domains",
+      "label": "Integrated Pillars",
+      "value": "4 Core Disciplines",
+      "detail": "Software Engineering, BPR/DPR Advisory, Change Management Training, and Manpower Solutions unified under one engagement partner.",
+      "verificationStatus": "approved"
+    },
+    {
+      "id": "metric-institutional-breadth",
+      "label": "Institutional Sectors",
+      "value": "Multi-Sectoral Scope",
+      "detail": "Active capability across State Government Departments, Public Sector Undertakings (PSUs), Statutory Bodies, and Enterprise Organizations.",
+      "verificationStatus": "approved"
+    },
+    {
+      "id": "metric-delivery-rigor",
+      "label": "Procurement Readiness",
+      "value": "Tender-Compliant",
+      "detail": "Disciplined methodology supporting end-to-end procurement, milestone verification, and transparent institutional governance.",
+      "verificationStatus": "approved"
+    },
+    {
+      "id": "metric-security-governance",
+      "label": "Architecture Standard",
+      "value": "Enterprise Security",
+      "detail": "Role-based access control, encrypted transit, rigorous audit trails, and accessibility compliance engineered from the ground up.",
+      "verificationStatus": "approved"
+    }
+  ]
+}

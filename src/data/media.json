@@ -1,0 +1,168 @@
+{
+  "logos": [
+    {
+      "id": "techno-logo",
+      "path": "/logos/TECHNO.png",
+      "alt": "Techno Horizon Brand Logo",
+      "transparent": true,
+      "source": "Supplied owner asset",
+      "status": "approved"
+    },
+    {
+      "id": "upsrlm-logo",
+      "path": "/logos/UPSRLM.jpg",
+      "alt": "Uttar Pradesh State Rural Livelihoods Mission Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "upsdm-logo",
+      "path": "/logos/UPSDM.png",
+      "alt": "Uttar Pradesh Skill Development Mission Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "upgov-logo",
+      "path": "/logos/UPGOV.png",
+      "alt": "Government of Uttar Pradesh Official Seal",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "shreetron-logo",
+      "path": "/logos/SHREETRON.png",
+      "alt": "Shreetron India Limited Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "uidai-logo",
+      "path": "/logos/UIDAI.jpg",
+      "alt": "Unique Identification Authority of India Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "nitcon-logo",
+      "path": "/logos/NITCON.jpg",
+      "alt": "NITCON Limited Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "abenterprises-logo",
+      "path": "/logos/ABENTERPRISES.png",
+      "alt": "AB Enterprises Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "eatpur-logo",
+      "path": "/logos/EATPUR.png",
+      "alt": "Eatpur Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "junglestory-logo",
+      "path": "/logos/JUNGLESTORY.png",
+      "alt": "The Junglestory Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "trimax-logo",
+      "path": "/logos/TRIMAX.jpg",
+      "alt": "Trimax IT Services Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "uppolice-logo",
+      "path": "/logos/UPPOLICE.jpg",
+      "alt": "UP Police Emergency Services Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "edistrict-logo",
+      "path": "/logos/EDISTRICT.png",
+      "alt": "e-District Mission Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "upcb-logo",
+      "path": "/logos/UPCB.jpg",
+      "alt": "Uttar Pradesh Pollution Control Board Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    },
+    {
+      "id": "ures-logo",
+      "path": "/logos/URES.jpg",
+      "alt": "UP Rural Engineering Services Logo",
+      "transparent": false,
+      "source": "Supplied owner asset",
+      "status": "approved_for_reference_display"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "digital-horizon",
+      "type": "SVG Component",
+      "name": "Digital Horizon Hero Illustration",
+      "description": "Flowing data paths, horizon arcs, and service nodes. Used exclusively in the Enterprise Hero.",
+      "status": "approved"
+    },
+    {
+      "id": "home-honeycomb",
+      "type": "SVG Component",
+      "name": "One Connected Partner Honeycomb Animation",
+      "description": "Fluid honeycomb SVG network connecting the four specialist capabilities. Restricted to Section 04 on Home Page only.",
+      "status": "approved"
+    },
+    {
+      "id": "software-flow",
+      "type": "SVG Component",
+      "name": "Software & IT Architecture Flow",
+      "description": "Connected modules, data pathways, and API integration layers.",
+      "status": "approved"
+    },
+    {
+      "id": "advisory-workflow",
+      "type": "SVG Component",
+      "name": "BPR & DPR Advisory Transformation Map",
+      "description": "Current-state diagnostics transitioning to target operating models.",
+      "status": "approved"
+    },
+    {
+      "id": "learning-ladder",
+      "type": "SVG Component",
+      "name": "Training & Change Management Progression",
+      "description": "Cohort enablement stages from needs analysis to verified adoption.",
+      "status": "approved"
+    },
+    {
+      "id": "talent-pipeline",
+      "type": "SVG Component",
+      "name": "Manpower & Executive Staffing Pipeline",
+      "description": "Talent node mapping, multi-tier vetting, and deployment tracking.",
+      "status": "approved"
+    }
+  ]
+}

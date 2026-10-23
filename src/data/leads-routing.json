@@ -1,0 +1,40 @@
+{
+  "routingPolicy": {
+    "defaultInbox": "contact@technohorizon.co.in",
+    "leadClassification": "Sector + Service Interest Based",
+    "retentionNote": "Leads must be handled under strict data protection protocols and retained only for commercial evaluation.",
+    "backendRequirements": "Server-side integration must handle CSRF, rate-limiting, virus scanning, and CRM webhook forwarding."
+  },
+  "departmentRoutes": [
+    {
+      "department": "Software Engineering & Systems Integration",
+      "matchingServices": ["software-it-solutions"],
+      "dispatchCode": "ENG-LEAD",
+      "routingKey": "tech-solutions"
+    },
+    {
+      "department": "Institutional Advisory & BPR/DPR",
+      "matchingServices": ["business-consultancy"],
+      "dispatchCode": "ADV-LEAD",
+      "routingKey": "advisory-consulting"
+    },
+    {
+      "department": "Workforce Training & Change Management",
+      "matchingServices": ["training-skill-development"],
+      "dispatchCode": "TRN-LEAD",
+      "routingKey": "training-enablement"
+    },
+    {
+      "department": "Manpower Solutions & Executive Search",
+      "matchingServices": ["manpower-solutions"],
+      "dispatchCode": "MAN-LEAD",
+      "routingKey": "manpower-staffing"
+    },
+    {
+      "department": "Government & Tender RFP Desk",
+      "matchingSectors": ["Government", "PSUs", "Semi-Public"],
+      "dispatchCode": "GOV-TENDER",
+      "routingKey": "institutional-tenders"
+    }
+  ]
+}

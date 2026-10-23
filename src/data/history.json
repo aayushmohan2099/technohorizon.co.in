@@ -1,0 +1,53 @@
+[
+  {
+    "id": "milestone-foundational-advisory",
+    "era": "Capability Foundation",
+    "year": null,
+    "title": "Establishing Integrated Advisory & Technical Scoping",
+    "summary": "Forming core practices in business process re-engineering (BPR) and technical feasibility assessments for public-facing institutions.",
+    "context": "Recognizing that digital systems frequently faltered due to inadequate requirement mapping, Techno Horizon established rigorous pre-engineering diagnostic methodologies.",
+    "verificationStatus": "approved",
+    "published": true
+  },
+  {
+    "id": "milestone-software-engineering",
+    "era": "Engineering Expansion",
+    "year": null,
+    "title": "Scaling Enterprise Software & API Modernization",
+    "summary": "Expanding full-stack engineering teams to build custom web applications, workflow automation, and inter-departmental data bridges.",
+    "context": "Institutions required bespoke application development capable of handling high transaction concurrency, role-based workflows, and statutory reporting standards.",
+    "verificationStatus": "approved",
+    "published": true
+  },
+  {
+    "id": "milestone-training-cascade",
+    "era": "Workforce Enablement",
+    "year": null,
+    "title": "Institutional Training & Change Management Practices",
+    "summary": "Developing dedicated curriculums, Train-the-Trainer frameworks, and frontline digital adoption programs.",
+    "context": "Bridging the critical gap between software delivery and frontline utilization by deploying structured training cohorts across regional administrative zones.",
+    "verificationStatus": "approved",
+    "published": true
+  },
+  {
+    "id": "milestone-manpower-ecosystem",
+    "era": "Comprehensive Solutions",
+    "year": null,
+    "title": "Specialized Manpower Solutions & Turnkey Staffing",
+    "summary": "Unifying executive search, technical recruitment, and large-scale project staffing under institutional service level agreements.",
+    "context": "Providing public agencies and enterprise clients with vetted technical and operational talent to sustain large initiatives beyond initial deployment.",
+    "verificationStatus": "approved",
+    "published": true
+  },
+  {
+    "id": "candidate-archival-early-training",
+    "era": "Archival Candidate",
+    "year": null,
+    "title": "Historical Regional Training & Digitization Programs (Archival Record)",
+    "summary": "Archival candidate derived from historical company profiles; reserved in pending state awaiting formal owner audit.",
+    "context": "Candidate record for early district-level computerization and training initiatives.",
+    "verificationStatus": "pending",
+    "source": "Older public Techno Horizon profile records; verify before use.",
+    "published": false
+  }
+]
